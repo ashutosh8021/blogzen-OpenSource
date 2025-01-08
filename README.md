@@ -15,7 +15,7 @@
 [![Stars](https://img.shields.io/github/stars/piug-07/blogzen-OpenSource?style=social)](https://github.com/piug-07/blogzen-OpenSource) 
  [![Watchers](https://img.shields.io/github/watchers/piug-07/blogzen-OpenSource?style=social)](https://github.com/piug-07/blogzen-OpenSource)
 
-An Open-Source Project & collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, within a click!
+An Open-Source Project & collection of resources categorized by tech domains, languages, expertise, and much more. Blogzen gives you quick access to all the resources you could need in a single place, with a click!
 
 <!-- ### Links
 
@@ -27,7 +27,7 @@ An Open-Source Project & collection of resources categorised by tech domains, la
 - **Safari**: version 5.2 and up
 - **Internet Explorer/Edge**: version 8 and up
 - **Opera**: version 9 and up
-<!-- > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now. -->
+<!-- > **Note**: Support for modern mobile browsers is experimental. The website is not responsive on mobile devices until now. -->
 
 ## Technology Stack used:
 
